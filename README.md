@@ -1,9 +1,8 @@
-# Incheol Jeong 🌟
+### About Me
 
-## About Me
-🌟 Software Developer
+- 🌟 Software Developer
 
-## Tech Stack
+### Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
